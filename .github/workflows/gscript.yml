@@ -1,8 +1,8 @@
 name: Automated closed Issues commenter and First PR Congratulator
 permissions:
-issues:write
-pull-requests: write
-contents: read
+  issues: write
+  pull-requests: write
+  contents: read
 on:
   issues:
     types: [closed]
