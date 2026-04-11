@@ -13,4 +13,4 @@ Testing cart functionality branch for Azure Boards task 21.
 
   ## Tuotemäärän validointi
 
-Tuotemäärän validoinnin tulee estää virheelliset arvot, kuten negatiiviset määrät ja tyhjät syötteet.
+Tuotemäärän validoinnin tulee estää virheelliset arvot, kuten negatiiviset määrät ja tyhjät syötteet..
