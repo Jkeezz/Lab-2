@@ -6,7 +6,7 @@ Testing cart functionality branch for Azure Boards task 21.
 ## Current development
 
 - Rekisteröinti lomakkeen implementointi
-
+- Kirjautumis lomakkeen parannuksia
 ## Release v1.1
 
 - Lisää tuotesivu
