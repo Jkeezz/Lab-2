@@ -13,4 +13,4 @@ Testing cart functionality branch for Azure Boards task 21.
 
 - ## Ostoskorilogiikka
 
-Ostoskorilogiikan tulee lisätä ja poistaa tuotteita oikein sekä päivittää ostoskorin sisältö käyttäjän toimien mukaan.
+Ostoskorilogiikan tulee lisätä ja poistaa tuotteita oikein sekä päivittää ostoskorin sisältö käyttäjän toimien mukaan..
