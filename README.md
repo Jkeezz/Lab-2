@@ -14,6 +14,9 @@ Testing cart functionality branch for Azure Boards task 21.
 
 - Lisää tuotesivu
 
+  ## Tuotemäärän validointi
+
+Tuotemäärän validoinnin tulee estää virheelliset arvot, kuten negatiiviset määrät ja tyhjät syötteet..
 - ## Ostoskorilogiikka
 
 Ostoskorilogiikan tulee lisätä ja poistaa tuotteita oikein sekä päivittää ostoskorin sisältö käyttäjän toimien mukaan..
