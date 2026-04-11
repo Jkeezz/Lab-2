@@ -14,6 +14,9 @@ Testing cart functionality branch for Azure Boards task 21.
 
 - Lisää tuotesivu
 
+  ## Hakutoiminnon testaus
+
+Hakutoiminnon testauksella varmistetaan, että käyttäjän syöttämä haku palauttaa oikeat tuotteet verkkokaupassa.
   ## Tuotemäärän validointi
 
 Tuotemäärän validoinnin tulee estää virheelliset arvot, kuten negatiiviset määrät ja tyhjät syötteet..
