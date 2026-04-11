@@ -13,3 +13,7 @@ Testing cart functionality branch for Azure Boards task 21.
 ## Release v1.1
 
 - Lisää tuotesivu
+
+- ## Ostoskorilogiikka
+
+Ostoskorilogiikan tulee lisätä ja poistaa tuotteita oikein sekä päivittää ostoskorin sisältö käyttäjän toimien mukaan..
