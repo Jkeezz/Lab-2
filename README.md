@@ -10,3 +10,7 @@ Testing cart functionality branch for Azure Boards task 21.
 ## Release v1.1
 
 - Lisää tuotesivu
+
+  ## Tuotemäärän validointi
+
+Tuotemäärän validoinnin tulee estää virheelliset arvot, kuten negatiiviset määrät ja tyhjät syötteet.
