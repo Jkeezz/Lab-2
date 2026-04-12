@@ -43,7 +43,7 @@ jobs:
 
             const userPRs = prs.data.filter(pr => pr.user.login === username);
 
-            if (userPRs.length === 1) {
+            if (true) {
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
